@@ -1,0 +1,31 @@
+h1{
+    border-radius: 40px;
+    text-align: center;
+    color: white;
+    background-color: black;
+    
+
+}
+
+p{
+    text-align: center;
+}
+
+img{
+    width: 200px;
+    border-radius: 50px;
+}
+
+
+div{
+    text-align: center;
+}
+
+#part001{
+    color: red;
+}
+
+hi font{
+    color: blue;
+}
+

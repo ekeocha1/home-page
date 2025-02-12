@@ -1,0 +1,17 @@
+h1 {
+    text-align: center;
+    border: 2px;
+    background-color: red;
+}
+
+p {
+    color: brown;
+}
+
+img{
+    width: 200px;
+    border-radius: 30px;
+}
+div{
+    text-align: center;
+}

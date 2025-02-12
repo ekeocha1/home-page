@@ -1,0 +1,73 @@
+body{
+    background-color: hsl(30, 54%, 90%);
+    margin: 0;
+}
+img{
+    width: 100%;
+    border: 200px;
+    
+    
+    
+}
+.card-container{
+    width: 400px;
+    margin: 40px auto;
+    background-color: hsl(0, 0%, 100%);
+    border-radius: 25px;
+    padding: 30px;
+}
+.prep-container{
+    border-radius: 20px;
+    background-color: hsl(330, 100%, 98%);
+    padding: 20px;
+}
+.me{
+    margin-top: 0;
+}
+.home{
+    padding-left: 20px;
+}
+
+.chuks{
+    padding-left: 20PX;
+}
+table{
+    width: 100%;
+}
+td{
+    border-bottom: 0.5px solid hsl(30, 18%, 87%);
+    padding: 20px 20px 20px 40px;
+}
+.fat td{ 
+    border-bottom: none;
+    
+}
+.grid{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    
+}
+
+.grid div{
+    border-bottom: solid hsl(30, 18%, 87%);
+    padding: 20px 20px 20px 40px;
+}
+.grid .non-border{
+    border-bottom: transparent;
+}
+@media screen and (max-width: 568px) {
+    .card-container{
+        margin: 0 auto;
+        border-radius: none;
+        
+    }
+    .wrapper{
+        margin: 0 20px 20px;
+        padding: 10px;
+
+    }
+    
+    
+    
+ 
+}
